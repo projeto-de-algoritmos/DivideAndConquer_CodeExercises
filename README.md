@@ -1,45 +1,59 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# DivideAndConquer_CodeExercises
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Dividir e Conquistar<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 180041444  |  Brenda Vitória dos Santos |
+| 180022237  |  Liverson Paulo Furtado Severo |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O projeto tem como objetivo resolver alguns problemas de programação utilizando conhecimentos do módulo de dividir e conquistar e suas aplicações.
 
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+## Questões
+### [XXX](https://codeforces.com/problemset/problem/)
+![IMG1]()
+
+#### Solução aceita
+![sol1]()
+
+### [XXX](https://codeforces.com/problemset/problem/)
+![IMG1]()
+
+#### Solução aceita
+![sol1]()
+
+### [XXX](https://codeforces.com/problemset/problem/)
+![IMG1]()
+
+#### Solução aceita
+![sol1]()
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: C++  
+**Pré-requsitos**: g++ >= 9.4.0;
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+## Uso
+Existem dois arquivos para cada questão, um .cpp para a compilação e outro .txt em que há um caso de teste.
+
+### 1 - Clone o repositório
+```
+git clone https://github.com/projeto-de-algoritmos/DivideAndConquer_CodeExercises
+```
+### 2 - Entre na pasta da questão
+```
+cd nomeDaQuestao
+```
+### 3 - Compile o código da questão, gerando um executavel
+```
+g++ nomeDoArquivo.cpp -o nomeDoExecutavel
+```
+### 4 - Rode o executável
+```
+./nomeDoExecutavel < teste.txt
+```
+## Apresentação
+Disponível no repositório em [vídeo](XXX.mp4)
 
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
