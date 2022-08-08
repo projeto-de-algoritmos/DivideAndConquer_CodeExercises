@@ -12,11 +12,13 @@
 O projeto tem como objetivo resolver alguns problemas de programação utilizando conhecimentos do módulo de dividir e conquistar e suas aplicações.
 
 ## Questões
-### [XXX](https://codeforces.com/problemset/problem/)
-![IMG1]()
+### [Permutation Transformation](https://codeforces.com/problemset/problem/1490/D)
+![Q1](https://media.discordapp.net/attachments/962347020432048188/1006184779064033340/unknown.png)
+![Ex1](https://media.discordapp.net/attachments/962347020432048188/1006184793731506206/unknown.png?width=649&height=458)
+![in1](https://media.discordapp.net/attachments/962347020432048188/1006184855928840222/unknown.png)
 
 #### Solução aceita
-![sol1]()
+![sol1](https://media.discordapp.net/attachments/962347020432048188/1006185606763790356/unknown.png?width=894&height=458)
 
 ### [XXX](https://codeforces.com/problemset/problem/)
 ![IMG1]()
@@ -31,8 +33,8 @@ O projeto tem como objetivo resolver alguns problemas de programação utilizand
 ![sol1]()
 
 ## Instalação 
-**Linguagem**: C++  
-**Pré-requsitos**: g++ >= 9.4.0;
+**Linguagem**: Python  
+**Pré-requsitos**: Python >= 3.8;
 
 ## Uso
 Existem dois arquivos para cada questão, um .cpp para a compilação e outro .txt em que há um caso de teste.
@@ -45,14 +47,12 @@ git clone https://github.com/projeto-de-algoritmos/DivideAndConquer_CodeExercise
 ```
 cd nomeDaQuestao
 ```
-### 3 - Compile o código da questão, gerando um executavel
+### 3 - Rode o arquivo .py
 ```
-g++ nomeDoArquivo.cpp -o nomeDoExecutavel
+python3 nomeDoArquivo.py
 ```
-### 4 - Rode o executável
-```
-./nomeDoExecutavel < teste.txt
-```
+### 4 - Teste usando o conteúdo do .txt
+
 ## Apresentação
 Disponível no repositório em [vídeo](XXX.mp4)
 
