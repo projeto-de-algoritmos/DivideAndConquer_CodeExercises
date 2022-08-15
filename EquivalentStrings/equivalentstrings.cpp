@@ -11,9 +11,9 @@ bool divideconquer(string a, string b, int t){
     string a1,a2, b1, b2;
 
     a1 = a.substr(0, t/2);
-    a2 = a.substr((t/2), (t/2));
+    a2 = a.substr((t/2), t);
     b1 = b.substr(0, t/2);
-    b2 = b.substr((t/2), (t/2));
+    b2 = b.substr((t/2), t);
 
     if(divideconquer(a1,b2,t/2))
     {
