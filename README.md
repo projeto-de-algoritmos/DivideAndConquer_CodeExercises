@@ -26,18 +26,19 @@ O projeto tem como objetivo resolver alguns problemas de programação utilizand
 #### Solução aceita
 ![sol1](https://media.discordapp.net/attachments/991056595075080262/1008726745026928660/eqsolution.png?width=628&height=426)
 
-### [XXX](https://codeforces.com/problemset/problem/)
-![IMG1]()
+### [a-Good String](https://codeforces.com/problemset/problem/)
+![IMG1](https://media.discordapp.net/attachments/991056595075080262/1008869523908206643/agoodstringpt1.png?width=532&height=426)
+![IMG2](https://media.discordapp.net/attachments/991056595075080262/1008869524289880125/agoodstringpt2.png?width=597&height=426)
 
 #### Solução aceita
-![sol1]()
+![sol1](https://media.discordapp.net/attachments/991056595075080262/1008869524608659476/agoodstringsolve.png?width=659&height=426)
 
 ## Instalação 
-**Linguagem**: Python  
-**Pré-requsitos**: Python >= 3.8;
+**Linguagens**: Python e C++  
+**Pré-requsitos**: Python >= 3.8, C++ >= 17;
 
 ## Uso
-Existem dois arquivos para cada questão, um .cpp para a compilação e outro .txt em que há um caso de teste.
+Existem dois arquivos para cada questão, um .cpp ou .py para o código da resolução da questão e outro .txt em que há um caso de teste.
 
 ### 1 - Clone o repositório
 ```
@@ -47,11 +48,29 @@ git clone https://github.com/projeto-de-algoritmos/DivideAndConquer_CodeExercise
 ```
 cd nomeDaQuestao
 ```
-### 3 - Rode o arquivo .py
+### 3 - Rode o arquivo
+
+#### 3.1 - Rode o arquivo .py
 ```
+python3 nomeDoArquivo.py < test.txt
+
+ou
+
 python3 nomeDoArquivo.py
 ```
-### 4 - Teste usando o conteúdo do .txt
+
+#### 3.2 - compile e rode o executável do .cpp
+```
+g++ -o prog nomeDoArquivo.cpp
+```
+
+```
+./prog < test.txt
+
+ou
+
+./prog
+```
 
 ## Apresentação
 Disponível no repositório em [vídeo](XXX.mp4)
