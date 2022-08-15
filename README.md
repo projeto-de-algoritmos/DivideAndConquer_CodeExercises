@@ -20,7 +20,7 @@ O projeto tem como objetivo resolver alguns problemas de programação utilizand
 #### Solução aceita
 ![sol1](https://media.discordapp.net/attachments/962347020432048188/1006185606763790356/unknown.png?width=894&height=458)
 
-### [XXX](https://codeforces.com/contest/559/problem/B)
+### [Equivalent Strings](https://codeforces.com/contest/559/problem/B)
 ![IMG1](https://media.discordapp.net/attachments/991056595075080262/1008726251332178052/equivalentstrings.png?width=493&height=426)
 
 #### Solução aceita
