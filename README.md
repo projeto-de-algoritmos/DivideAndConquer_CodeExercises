@@ -26,7 +26,7 @@ O projeto tem como objetivo resolver alguns problemas de programação utilizand
 #### Solução aceita
 ![sol1](https://media.discordapp.net/attachments/991056595075080262/1008726745026928660/eqsolution.png?width=628&height=426)
 
-### [a-Good String](https://codeforces.com/problemset/problem/)
+### [a-Good String](https://codeforces.com/contest/1385/problem/D)
 ![IMG1](https://media.discordapp.net/attachments/991056595075080262/1008869523908206643/agoodstringpt1.png?width=532&height=426)
 ![IMG2](https://media.discordapp.net/attachments/991056595075080262/1008869524289880125/agoodstringpt2.png?width=597&height=426)
 
@@ -65,6 +65,6 @@ g++ -o prog nomeDoArquivo.cpp
 ```
 
 ## Apresentação
-Disponível no repositório em [vídeo](XXX.mp4)
+Disponível no repositório em [vídeo](video_dividir_conquistar.mp4)
 
 ## Outros 
