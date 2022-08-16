@@ -50,26 +50,18 @@ cd nomeDaQuestao
 ```
 ### 3 - Rode o arquivo
 
-#### 3.1 - Rode o arquivo .py
+#### 3.1 - No caso do .py basta rodar o arquivo com o caso de testes 
 ```
 python3 nomeDoArquivo.py < test.txt
-
-ou
-
-python3 nomeDoArquivo.py
 ```
 
-#### 3.2 - compile e rode o executável do .cpp
+#### 3.2 - No caso do .cpp compile o código
 ```
 g++ -o prog nomeDoArquivo.cpp
 ```
-
+#### 3.2.1 - E rode o executável gerado com o caso de teste
 ```
 ./prog < test.txt
-
-ou
-
-./prog
 ```
 
 ## Apresentação
